@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+h1, li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: pink;
+    text-align: center;
+    font-weight: bold;
+}
+
+li {
+    color: coral;
+    background-color: aqua;
+}
