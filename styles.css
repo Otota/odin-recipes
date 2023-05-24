@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: rgb(235, 235, 235);
 }
 
 h1, li {
@@ -8,12 +8,17 @@ h1, li {
 
 h1 {
     color: white;
-    background-color: pink;
+    background-color: rgb(255, 90, 20);
     text-align: center;
     font-weight: bold;
 }
 
 li {
-    color: coral;
-    background-color: aqua;
+    color: rgb(255, 90, 20);
+    background-color: rgb(218, 218, 218);
+}
+
+a {
+    color: rgb(255, 90, 20);
+    text-decoration: none;
 }
